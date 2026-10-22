@@ -1,0 +1,8 @@
+{
+  "name": "ECONOMY DECODE — 통합사회 경제 개념 마스터 클래스",
+  "description": "2022 개정 교육과정 고등학교 통합사회 자본주의의 의미와 역사적 전개, 시장·계획·혼합 경제체제 비교 분석 및 수능·내신 개념 마스터 인터랙티브 플랫폼",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
